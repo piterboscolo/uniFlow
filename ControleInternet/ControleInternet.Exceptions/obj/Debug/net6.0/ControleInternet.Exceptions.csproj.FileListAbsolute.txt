@@ -1,0 +1,14 @@
+C:\Code\ControleInternet\ControleInternet.Exceptions\bin\Debug\net6.0\ControleInternet.Exceptions.deps.json
+C:\Code\ControleInternet\ControleInternet.Exceptions\bin\Debug\net6.0\ControleInternet.Exceptions.dll
+C:\Code\ControleInternet\ControleInternet.Exceptions\bin\Debug\net6.0\ControleInternet.Exceptions.pdb
+C:\Code\ControleInternet\ControleInternet.Exceptions\obj\Debug\net6.0\ControleInternet.Exceptions.csproj.AssemblyReference.cache
+C:\Code\ControleInternet\ControleInternet.Exceptions\obj\Debug\net6.0\ControleInternet.Exceptions.ResourceMensagensDeErro.resources
+C:\Code\ControleInternet\ControleInternet.Exceptions\obj\Debug\net6.0\ControleInternet.Exceptions.csproj.GenerateResource.cache
+C:\Code\ControleInternet\ControleInternet.Exceptions\obj\Debug\net6.0\ControleInternet.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ControleInternet\ControleInternet.Exceptions\obj\Debug\net6.0\ControleInternet.Exceptions.AssemblyInfoInputs.cache
+C:\Code\ControleInternet\ControleInternet.Exceptions\obj\Debug\net6.0\ControleInternet.Exceptions.AssemblyInfo.cs
+C:\Code\ControleInternet\ControleInternet.Exceptions\obj\Debug\net6.0\ControleInternet.Exceptions.csproj.CoreCompileInputs.cache
+C:\Code\ControleInternet\ControleInternet.Exceptions\obj\Debug\net6.0\ControleInternet.Exceptions.dll
+C:\Code\ControleInternet\ControleInternet.Exceptions\obj\Debug\net6.0\refint\ControleInternet.Exceptions.dll
+C:\Code\ControleInternet\ControleInternet.Exceptions\obj\Debug\net6.0\ControleInternet.Exceptions.pdb
+C:\Code\ControleInternet\ControleInternet.Exceptions\obj\Debug\net6.0\ref\ControleInternet.Exceptions.dll
